@@ -1,4 +1,4 @@
-FROM evarga:jenkins-slave
+FROM evarga/jenkins-slave
 
 ENV DEBIAN_FRONTEND noninteractive
 
