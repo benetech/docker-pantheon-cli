@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM evarga:jenkins-slave
 
 ENV DEBIAN_FRONTEND noninteractive
 
